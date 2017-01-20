@@ -86,7 +86,7 @@ ul, li {
 }
 
 #usertab {
-    height: 700px;
+    height: 500px;
     background: white;
     padding: 10px;
 }
@@ -106,7 +106,7 @@ ul, li {
 
 #chat {
     background: white;
-    height: 500px;
+    height: 300px;
     border:1px solid black;
     margin-bottom: 25px;
 }

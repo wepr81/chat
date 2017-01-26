@@ -20,13 +20,13 @@ ul, li {
 
 }
 
-.timers {
+#timetab {
     margin-bottom: 30px;
     color: blue;
     font-size: 16px;
 }
 
-.timers span {
+span.timers{
     color: black;
 }
 
